@@ -1,0 +1,19 @@
+# オープンソース開発についての基礎知識および方針
+
+## オープンソース
+- オープンソースの定義: [OSD (The Open Source Definition)](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AE%E5%AE%9A%E7%BE%A9)
+- ライセンスに基づく公開
+  - 「インターネット上で公開されているから何でも自由に使える」ではない
+  - 「著作権表記があるから使えない」でもない
+
+著作権とライセンス
+- 著作権 (Copyright)
+  - 著作権者は誰か
+- ライセンス、使用許諾 (License)
+  - 著作権者以外の人がどのように使えるか
+
+## 参照
+- [オープンソース](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9)
+- [オープンソースの定義](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AE%E5%AE%9A%E7%BE%A9)
+- [パブリックドメイン](https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%96%E3%83%AA%E3%83%83%E3%82%AF%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3)
+- [クリエイティブ・コモンズ・ライセンス (CC)](https://creativecommons.jp/licenses/)
