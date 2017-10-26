@@ -34,6 +34,19 @@ GitHub でリポジトリを作成するときに、付与するライセンス�
 ![Add-License](Add-License.png)
 
 ### 利用方針
+事実上標準となっている 3 つのオープンソース ライセンスから、目的に応じて選択する。  
+自身の権利を主張するほど責任が伴う。権利や責任を最も放棄するものが MIT License X11 である。  
+kcg.edu Future Lab のリポジトリでは MIT License X11 を利用することを推奨し、その他については必然性を持つ場合に利用する。
+
+- MIT License X11 (BSD スタイル)
+  - 個人、小規模開発
+- Apache License 2.0 (BSD スタイル)
+  - 企業、大規模開発
+  - 特許の使用許諾、商標は使用不可
+- GNU General Public License v3.0 (コピーレフト)
+  - GPL の著作物を fork する場合はもちろん GPL を適用する
+
+リポジトリ作成画面の例:  
 ![Create-Repository](Create-Repository.png)
 
 ## 参照
