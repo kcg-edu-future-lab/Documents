@@ -28,9 +28,12 @@ Copyright 1397 Yoshimitsu Ashikaga
 ### ライセンスの分類
 ![Licenses-LR](Licenses-LR.png)
 
-### 利用方針
+GitHub でリポジトリを作成するときに、付与するライセンスを選択できる。  
+太字で表示されているものが事実上標準のオープンソース ライセンスである。  
+なお、「ライセンスがない (None)」ということは、「他の人は使用できない」を意味する。  
 ![Add-License](Add-License.png)
 
+### 利用方針
 ![Create-Repository](Create-Repository.png)
 
 ## 参照
