@@ -38,40 +38,39 @@ GitHub でリポジトリを作成するときに、付与するライセンス�
 
 ![Add-License](Add-License.png)
 
-- MIT License X11
+- [MIT License X11](https://ja.osdn.net/projects/opensource/wiki/licenses/MIT_license)
   - BSD スタイル
   - 著作権の表示
-- Apache License 2.0
+- [Apache License 2.0](https://ja.osdn.net/projects/opensource/wiki/licenses%2FApache_License_2.0)
   - BSD スタイル
   - 特許の使用許諾を含む
   - 著作権、特許権の表示
   - 変更箇所の表示
   - 商標は二次使用不可
   - 書面で同意した場合は責任を負う可能性がある
-- GNU General Public License v3.0
+- [GNU General Public License v3.0](https://mag.osdn.jp/07/09/02/130237)
   - コピーレフト
   - 著作権の表示
   - 変更箇所の表示
   - 二次的著作物も GNU GPL で公開
 
 ### ライセンスの適用方針
-上記の性質の違いにより、次のような使い分けとなる。
+GitHub は、オープンソース ライセンス選択のガイドを用意している。
+- [Choose an open source license](https://choosealicense.com/)
+- [The Legal Side of Open Source](https://opensource.guide/legal/)
+
+#### 新規のリポジトリを作成する場合
+事実上標準となっている 3 つのオープンソース ライセンスの中から、目的に応じて選択する。  
+一般的に、自身の権利を主張するほど責任が伴う。権利や責任を最も放棄するものが MIT License X11 である。
 - MIT License X11
   - 主に個人、コミュニティ
 - Apache License 2.0
   - 主に企業、注力する技術領域
   - 派生よりも、pull request による貢献を期待する (一元管理)
 
-また、GitHub は オープンソース ライセンス選択のガイドを用意している。
-- [Choose an open source license](https://choosealicense.com/)
-- [The Legal Side of Open Source](https://opensource.guide/legal/)
-
-#### 新規のリポジトリを作成する場合
-事実上標準となっている 3 つのオープンソース ライセンスの中から、目的に応じて選択する。  
-一般的に、自身の権利を主張するほど責任が伴う。権利や責任を最も放棄するものが MIT License X11 である。  
 kcg.edu Future Lab のリポジトリでは MIT License X11 を適用することを推奨し、その他については必然性を持つ場合に適用する。
 
-#### 既存のリポジトリを fork する場合
+#### 既存のリポジトリから派生する場合
 - 元のライセンスが BSD スタイル
   - 前項と同様の理由で、なるべく MIT License X11 を適用する
   - [ライセンスを変更している例](https://github.com/sakapon/felicalib-remodeled/blob/master/LICENSE)
@@ -94,10 +93,10 @@ kcg.edu Future Lab のリポジトリでは MIT License X11 を適用するこ�
 
 ### ライセンスの種類
 - [コピーレフト](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%94%E3%83%BC%E3%83%AC%E3%83%95%E3%83%88)
-- [GNU General Public License](https://mag.osdn.jp/07/09/02/130237)
+- [GNU General Public License v3.0](https://mag.osdn.jp/07/09/02/130237)
 - [BSDライセンス](https://ja.wikipedia.org/wiki/BSD%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9)
 - [Apache License 2.0](https://ja.osdn.net/projects/opensource/wiki/licenses%2FApache_License_2.0)
-- [MIT License](https://ja.osdn.net/projects/opensource/wiki/licenses%2FMIT_license)
+- [MIT License X11](https://ja.osdn.net/projects/opensource/wiki/licenses/MIT_license)
 
 ### ライセンスの適用方針
 - [Choose an open source license](https://choosealicense.com/)
