@@ -59,7 +59,7 @@ GitHub は、オープンソース ライセンス選択のガイドを用意し
 - [Choose an open source license](https://choosealicense.com/)
 - [The Legal Side of Open Source](https://opensource.guide/legal/)
 
-#### 新規のリポジトリを作成する場合
+#### 新規に作成したリポジトリ
 事実上標準となっている 3 つのオープンソース ライセンスの中から、目的に応じて選択する。  
 一般的に、自身の権利を主張するほど責任が伴う。権利や責任を最も放棄するものが MIT License X11 である。
 - MIT License X11
@@ -70,11 +70,11 @@ GitHub は、オープンソース ライセンス選択のガイドを用意し
 
 kcg.edu Future Lab のリポジトリでは MIT License X11 を適用することを推奨し、その他については必然性を持つ場合に適用する。
 
-#### 既存のリポジトリから派生する場合
-- 元のライセンスが BSD スタイル
+#### 既存のリポジトリから派生したリポジトリ
+- 元のライセンスが BSD スタイルの場合
   - 前項と同様の理由で、なるべく MIT License X11 を適用する
   - [ライセンスを変更している例](https://github.com/sakapon/felicalib-remodeled/blob/master/LICENSE)
-- 元のライセンスがコピーレフト
+- 元のライセンスがコピーレフトの場合
   - もちろん元のライセンスを適用する
 
 ### リポジトリ作成画面の例
@@ -110,3 +110,5 @@ kcg.edu Future Lab のリポジトリでは MIT License X11 を適用するこ�
   - 著作権をはじめとする知的財産権を持たない
 - [クリエイティブ・コモンズ・ライセンス (CC)](https://creativecommons.jp/licenses/)
   - ソースコードに限定しない
+- [デュアルライセンス](https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%A5%E3%82%A2%E3%83%AB%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9)
+  - 複数のライセンスを付与して配布し、使用者がいずれかを選択する
