@@ -28,17 +28,20 @@ Copyright 1397 Yoshimitsu Ashikaga
 また以下で述べる通り、他者の著作物を使用する際には、各ライセンスの規定に基づき元の著作権を表示する。
 
 ## ライセンス
+### 著作物の使用形態
+![Software-Usages](Software-Usages.png)
+
 ### ライセンスの分類
 ![Licenses-LR](Licenses-LR.png)
 
 ### ライセンスの種類
 GitHub でリポジトリを作成するときに、付与するライセンスを選択できる (下図)。  
-太字で表示されているものが事実上標準のオープンソース ライセンスである。  
+太字のものが事実上標準のオープンソース ライセンスである。  
 なお、「ライセンスがない (None)」は「他の人は使用できない」を意味する。
 
 ![Add-License](Add-License.png)
 
-- [MIT License X11](https://ja.osdn.net/projects/opensource/wiki/licenses/MIT_license)
+- [MIT License](https://ja.osdn.net/projects/opensource/wiki/licenses/MIT_license)
   - BSD スタイル
   - 著作権の表示
 - [Apache License 2.0](https://ja.osdn.net/projects/opensource/wiki/licenses%2FApache_License_2.0)
@@ -61,18 +64,18 @@ GitHub は、オープンソース ライセンス選択のガイドを用意し
 
 #### 新規に作成したリポジトリ
 事実上標準となっている 3 つのオープンソース ライセンスの中から、目的に応じて選択する。  
-一般的に、自身の権利を主張するほど責任が伴う。権利や責任を最も放棄するものが MIT License X11 である。
-- MIT License X11
+一般的に、自身の権利を主張するほど責任が伴う。権利や責任を最も放棄するものが MIT License である。
+- MIT License
   - 主に個人、コミュニティ
 - Apache License 2.0
   - 主に企業、注力する技術領域
   - 派生よりも、pull request による貢献を期待する (一元管理)
 
-kcg.edu Future Lab のリポジトリでは MIT License X11 を適用することを推奨し、その他については必然性を持つ場合に適用する。
+kcg.edu Future Lab のリポジトリでは MIT License を適用することを推奨し、その他については必然性を持つ場合に適用する。
 
 #### 既存のリポジトリから派生したリポジトリ
 - 元のライセンスが BSD スタイルの場合
-  - 前項と同様の理由で、なるべく MIT License X11 を適用する
+  - 前項と同様の理由で、なるべく MIT License を適用する
   - [ライセンスを変更している例](https://github.com/sakapon/felicalib-remodeled/blob/master/LICENSE)
 - 元のライセンスがコピーレフトの場合
   - もちろん元のライセンスを適用する
@@ -96,7 +99,7 @@ kcg.edu Future Lab のリポジトリでは MIT License X11 を適用するこ�
 - [GNU General Public License v3.0](https://mag.osdn.jp/07/09/02/130237)
 - [BSDライセンス](https://ja.wikipedia.org/wiki/BSD%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9)
 - [Apache License 2.0](https://ja.osdn.net/projects/opensource/wiki/licenses%2FApache_License_2.0)
-- [MIT License X11](https://ja.osdn.net/projects/opensource/wiki/licenses/MIT_license)
+- [MIT License](https://ja.osdn.net/projects/opensource/wiki/licenses/MIT_license)
 
 ### ライセンスの適用方針
 - [Choose an open source license](https://choosealicense.com/)
@@ -112,4 +115,6 @@ kcg.edu Future Lab のリポジトリでは MIT License X11 を適用するこ�
   - ソースコードに限定しない
 - [デュアルライセンス](https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%A5%E3%82%A2%E3%83%AB%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9)
   - 複数のライセンスを付与して配布し、使用者がいずれかを選択する
+- [Linuxディストリビューション](https://ja.wikipedia.org/wiki/Linux%E3%83%87%E3%82%A3%E3%82%B9%E3%83%88%E3%83%AA%E3%83%93%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3)
+  - Linux の派生版の図が掲載されている
 - [企業のオープンソース戦略 (2014)](https://www.slideshare.net/sakapon/open-source-strategy)
