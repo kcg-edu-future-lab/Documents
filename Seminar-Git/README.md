@@ -2,6 +2,8 @@
 T.B.D.
 
 ## GitHub がどんなサービスなのか覗いてみる
+サイトを見ればきっとだいたい把握できます。
+
 ### トップページとマイページ
 - 検索
 - Your profile
@@ -10,15 +12,15 @@ T.B.D.
 - Followers & Following
 
 ### GitHub にどんな機能があるのか、主要な OSS のリポジトリを覗いてみる
-いろいろあるので好きなものを見てください
+いろいろあるので好きなものを見てください。
 - [apache/tomcat](https://github.com/apache/tomcat)
 - [Microsoft](https://github.com/microsoft)
 - [Apple](https://github.com/apple)
 - [neuecc/UniRx](https://github.com/neuecc/UniRx)
   - 個人
 
-### リポジトリの機能
-よく使う機能のみ抜粋
+### リポジトリの機能を覗いてみる
+よく使う機能のみ抜粋。
 - フォルダー一覧
   - ソースコード以外もある
   - ドキュメントやデータなども
