@@ -9,7 +9,7 @@
 - Followers & Following
 
 ## GitHub にどんな機能があるのか、主要な OSS のリポジトリを覗いてみる
-いろいろあるので好きなものを見てください。
+いろいろあるので好きなものを検索して閲覧してください。
 - [apache/tomcat](https://github.com/apache/tomcat)
 - [Microsoft](https://github.com/microsoft)
 - [Apple](https://github.com/apple)
@@ -22,6 +22,7 @@
 - フォルダー一覧
   - ソースコード以外もある
   - ドキュメントやデータなども
+- README
 - Commits
 - Branches
 - Releases
