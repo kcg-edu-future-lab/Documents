@@ -31,3 +31,5 @@
 - Pull requests
 - Wiki
 - Insights
+
+完全に理解した。
