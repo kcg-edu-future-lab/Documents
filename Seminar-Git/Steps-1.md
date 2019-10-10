@@ -6,8 +6,8 @@
   - 右上の `+` メニューの `New repository` から
 - 生成されたファイルを確認
   - README.md
-    - Markdown
-    - サイト上でも更新可能
+    - Markdown 形式
+    - ブラウザー上でも更新可能
   - LICENSE
   - .gitignore
     - 管理対象外のフォルダー名やファイル拡張子を指定
