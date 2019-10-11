@@ -4,6 +4,7 @@
 ## GitHub (ブラウザー上) での作業
 - リポジトリを作成
   - 右上の `＋▼` メニューの `New repository` から
+  - [詳細の設定はこちら](Repos.md)
 - 生成されたファイルを確認
   - README.md
     - Markdown 形式
