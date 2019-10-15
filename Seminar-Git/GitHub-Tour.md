@@ -2,6 +2,7 @@
 サイトを見ればきっとだいたい把握できます。
 
 ## トップページとマイページ
+アカウントを作成しましょう。
 - 検索
 - Your profile
 - Repositories
@@ -14,12 +15,15 @@
 - [Microsoft](https://github.com/microsoft)
 - [Apple](https://github.com/apple)
 - [aozorabunko/aozorabunko](https://github.com/aozorabunko/aozorabunko)
+  - Web サイトのソース
+- [nagix/mini-tokyo-3d](https://github.com/nagix/mini-tokyo-3d)
+  - GitHub Pages で公開: https://nagix.github.io/mini-tokyo-3d
 - [neuecc/UniRx](https://github.com/neuecc/UniRx)
   - 個人アカウント
 
 ## リポジトリの機能を覗いてみる
 よく使う機能のみ抜粋。
-- フォルダー一覧
+- フォルダー・ファイル一覧
   - ソースコード以外もある
   - ドキュメントやデータなども
 - README
