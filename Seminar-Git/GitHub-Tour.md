@@ -15,7 +15,7 @@
 - [Microsoft](https://github.com/microsoft)
 - [Apple](https://github.com/apple)
 - [aozorabunko/aozorabunko](https://github.com/aozorabunko/aozorabunko)
-  - Web サイトのソース
+  - [青空文庫](https://www.aozora.gr.jp/)のソース
 - [nagix/mini-tokyo-3d](https://github.com/nagix/mini-tokyo-3d)
   - GitHub Pages で公開: https://nagix.github.io/mini-tokyo-3d
 - [neuecc/UniRx](https://github.com/neuecc/UniRx)
