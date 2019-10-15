@@ -7,4 +7,5 @@ GitHub 上におけるオープンソース ソフトウェア (OSS) 開発に�
 - [リポジトリの作成](GitHub)
 
 ## Seminars
-- [UI (ユーザー インターフェイス) セミナー](Seminar-UI)
+- [UI (ユーザー インターフェイス) 勉強会](Seminar-UI)
+- [Git・GitHub 勉強会](Seminar-Git)
