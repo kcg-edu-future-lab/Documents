@@ -22,3 +22,19 @@
   - 複数人での開発 (組織アカウントの機能)
 - [Shields.io](https://shields.io/)
   - バッジ
+
+## たまに使う Git コマンド
+- `git config --list`
+  - Git の設定を確認
+
+## 概念
+Git はバージョン管理システム (Version Control System; VCS) の一つです。
+
+以前は StarTeam や Visual SourceSafe などが VCS として業務で使われることが多かったです。
+これらの VCS ではローカルでのコミット機能がなく、毎回のコミット (チェックインともいう) のたびにサーバーに送信します。
+Git に比べると1段階シンプルな VCS でした。
+
+Git のようにローカルでのコミット機能を持つものをとくに分散型バージョン管理システム (Distributed Version Control System; DVCS) と呼びます。
+
+また、GitHub と同様のサービスに Bitbucket などがあります。
+Bitbucket では、VCS として Git だけでなく Mercurial もサポートされています。
