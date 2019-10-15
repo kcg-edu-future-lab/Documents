@@ -1,7 +1,7 @@
 # Git/GitHub Seminar
-筆者が実際に業務として使っている機能と作業手順についての
+筆者が実際に業務として使っている機能と作業手順についての、
 
-**超絶実践的な説明です**
+### 超絶実践的な説明です
 
 - デモ中心
   - 実際の作業手順をもとに
@@ -13,8 +13,8 @@
 
 ## 使用するツール
 インストール手順については説明しません。
-- GitHub (ブラウザー上)
-- SourceTree
+- [GitHub](https://github.com/) (ブラウザー上)
+- [SourceTree](https://www.sourcetreeapp.com/)
   - SourceTree をインストールすると自動的に Git もインストールされる
 - (簡単な操作の説明用に Visual Studio の拡張機能)
 
@@ -24,7 +24,7 @@
 - なるべく [GitHub のガイド](https://guides.github.com/activities/hello-world/)に従う
   - 独自の運用をしない
 
-## コンテンツ
+## ～コンテンツ～
 1. [導入編: GitHub がどんなサービスなのか覗いてみる](GitHub-Tour.md)
 1. [基本編: ファイルをなんとなく置いてみる](Steps-1.md)
 1. [応用編: 開発プロジェクトで実践する](Steps-2.md)
