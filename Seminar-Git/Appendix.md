@@ -13,7 +13,7 @@
 
 なお、プッシュ後にこれを実行しても、サーバーから削除されるわけではありません。つまり、一度プッシュしたデータは残り続けます。
 
-![](SourceTree-Reset.png)
+![](Images/SourceTree-Reset.png)
 
 ## たまに使う機能
 - GitHub Pages

@@ -11,6 +11,7 @@
 
 ## GitHub にどんな機能があるのか、主要な OSS のリポジトリを覗いてみる
 いろいろあるので好きなものを検索して閲覧してください。
+- [torvalds/linux](https://github.com/torvalds/linux)
 - [apache/tomcat](https://github.com/apache/tomcat)
 - [Microsoft](https://github.com/microsoft)
 - [Apple](https://github.com/apple)

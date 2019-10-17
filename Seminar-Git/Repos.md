@@ -12,4 +12,4 @@ GitHub の Web ページ上でリポジトリを新規に作成すると、設�
 - ライセンス
   - [ライセンス適用ガイド](../OSS)を参考に
 
-![Create Repository](Create-Repository.png)
+![](Images/Create-Repository.png)
