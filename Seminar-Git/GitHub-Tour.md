@@ -29,12 +29,13 @@
   - ドキュメントやデータなども
 - README
 - Commits
-- Branches
-- Releases
 - Forks
-- Issues
 - Pull requests
-- Wiki
+- Branches
 - Insights
+- Releases
+- Wiki
+- Issues
 
+開発プロジェクトに必要な機能が揃っている。  
 完全に理解した。

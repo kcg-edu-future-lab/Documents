@@ -18,8 +18,8 @@
 - (簡単な操作の説明用に Visual Studio の拡張機能)
 
 ## 方針
-- なるべく GitHub のページ上にある機能を使う
-  - ローカルの Git からではなく
+- なるべく GitHub と SourceTree にある機能を使う
+  - Git コマンドではなく
 - なるべく [GitHub のガイド](https://guides.github.com/activities/hello-world/)に従う
   - 独自の運用をしない
 
