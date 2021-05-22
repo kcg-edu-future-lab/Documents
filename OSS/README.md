@@ -29,7 +29,7 @@ Copyright 1397 Yoshimitsu Ashikaga
 また以下で述べる通り、他者の著作物を使用する際には、各ライセンスの規定に基づき元の著作権を表示する。
 
 ## ライセンス
-### 著作物の使用形態
+### 著作物 (ここではソフトウェア) の使用形態
 ![Software-Usages](Software-Usages.png)
 
 ### ライセンスの分類
@@ -76,6 +76,7 @@ kcg.edu Future Lab のリポジトリでは MIT License を適用することを
 
 #### 既存のリポジトリから派生したリポジトリ
 - 元のライセンスが BSD スタイルの場合
+  - 自身で拡張した部分に対するライセンスを自身で決める
   - 前項と同様の理由で、なるべく MIT License を適用する
   - [ライセンスを変更している例](https://github.com/sakapon/felicalib-remodeled/blob/master/LICENSE)
 - 元のライセンスがコピーレフトの場合
